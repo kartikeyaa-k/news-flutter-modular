@@ -7,7 +7,7 @@ A news application in Flutter
 4. Unit & Widget test
 5. Solution for Grid layout aspect ratio issue on different screen sizes
 6. State management using BLoC
-7. Pagination
+7. Pull to refresh & Pagination
 8. Service locator
 9. runZonedGuarding & app state observer
 10. Utilizing memCacheHeight, memCacheWidth, addAutomaticKeepAlives, addRepaintBoundaries

@@ -1,16 +1,13 @@
 # worldtimes
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A news application in Flutter 
+## Topics covered in this project 
+1. Memory optimization & Debugging oversized images
+2. Caching optimization
+3. Modular structure
+4. Unit & Widget test
+5. Grid layout on different screen sizes
+6. State management using BLoC
+7. Pagination
+8. Service locator
+9. runZonedGuarding & app state observer
+10. Utilizing memCacheHeight, memCacheWidth, addAutomaticKeepAlives, addRepaintBoundaries

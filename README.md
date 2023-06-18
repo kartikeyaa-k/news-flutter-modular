@@ -5,7 +5,7 @@ A news application in Flutter
 2. Utilizing memCacheHeight, memCacheWidth, addAutomaticKeepAlives, addRepaintBoundaries, debugInvertOversizedImages
 3. Modular structure
 4. Unit & Widget test
-5. Solution for Grid layout aspect ratio issue on different screen sizes
+5. Handling Grid layout aspect ratio issue on different screen sizes, Tested on various mobile devices.
 6. State management using BLoC
 7. Pull to refresh & Pagination
 8. Service locator

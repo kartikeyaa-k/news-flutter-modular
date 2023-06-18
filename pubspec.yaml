@@ -34,7 +34,6 @@ dependencies:
   url_launcher: 6.1.11
   cached_network_image: 3.2.3
   pull_to_refresh: 2.0.0
-  debounce_throttle: 2.0.0
 
   # Unit Test
   mockito: ^5.4.2
